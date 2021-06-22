@@ -1,5 +1,5 @@
 ### Hi there 👋
- 待业中...肥皂小朋友
+ 学习中...肥皂小朋友
 
 <!--
 **touchitvoid/touchitvoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
